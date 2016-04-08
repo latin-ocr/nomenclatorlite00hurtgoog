@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nomenclatorlite00hurtgoog/nomenclatorlite00hurtgoog_0233.png"; bbox 0 0 1118 1622; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 400 661 574 1014">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 400 661 574 1014">
+     <span class='ocr_line' id='line_1_1' title="bbox 400 661 574 1014; baseline -46.167 3442.5"><span class='ocrx_word' id='word_1_1' title='bbox 438 661 574 761; x_wconf 54' lang='grc' dir='ltr'>ΜΨΜ.</span> <span class='ocrx_word' id='word_1_2' title='bbox 475 782 568 851; x_wconf 41' lang='grc' dir='ltr'>,ἃ</span> <span class='ocrx_word' id='word_1_3' title='bbox 400 818 521 1014; x_wconf 56' lang='lat' dir='ltr'><strong>mmmffim</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 368 720 506 975">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 368 720 506 975">
+     <span class='ocr_line' id='line_1_2' title="bbox 368 720 506 975; baseline -26.333 -99"><span class='ocrx_word' id='word_1_4' title='bbox 368 720 506 975; x_wconf 54' lang='grc' dir='ltr'>Ε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 118 84 1002 1536">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 118 84 1002 1536">
+     <span class='ocr_line' id='line_1_3' title="bbox 118 84 1002 1536"><span class='ocrx_word' id='word_1_5' title='bbox 118 84 1002 1536; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nomenclatorlite00hurtgoog/nomenclatorlite00hurtgoog_0216.png"; bbox 0 0 1118 1622; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 257 729 789 808">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 257 729 780 801">
+     <span class='ocr_line' id='line_1_1' title="bbox 257 729 752 778; baseline -0.002 -2.905"><span class='ocrx_word' id='word_1_1' title='bbox 257 729 614 778; x_wconf 49' lang='lat' dir='ltr'>manamimua</span> <span class='ocrx_word' id='word_1_2' title='bbox 627 753 752 778; x_wconf 59' lang='lat' dir='ltr'>numen.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 257 777 789 808; baseline 0 -10"><span class='ocrx_word' id='word_1_3' title='bbox 257 777 615 808; x_wconf 53' lang='lat' dir='ltr'>-nm-anboeoemnmfflnm</span> <span class='ocrx_word' id='word_1_4' title='bbox 631 781 687 801; x_wconf 69' lang='lat'><strong>²5⁸³.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 693 778 789 801; x_wconf 59' lang='lat' dir='ltr'>Ruth-¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 253 1101 690 1150">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 253 1101 690 1150">
+     <span class='ocr_line' id='line_1_3' title="bbox 254 1101 690 1120; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 254 1101 612 1120; x_wconf 57' lang='lat' dir='ltr'>mandatnm-afflinem</span> <span class='ocrx_word' id='word_1_7' title='bbox 639 1109 644 1114; x_wconf 85' lang='lat'>·</span> <span class='ocrx_word' id='word_1_8' title='bbox 685 1101 690 1106; x_wconf 92' lang='lat'>&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 253 1126 670 1150; baseline -0.007 -4"><span class='ocrx_word' id='word_1_9' title='bbox 253 1126 612 1150; x_wconf 64' lang='lat' dir='ltr'>genomfixitlibnummqnidmni-</span> <span class='ocrx_word' id='word_1_10' title='bbox 649 1129 670 1134; x_wconf 94' lang='grc'>’“</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 250 1349 550 1426">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 250 1349 550 1426">
+     <span class='ocr_line' id='line_1_5' title="bbox 250 1349 550 1426; baseline -0.015 -19"><span class='ocrx_word' id='word_1_11' title='bbox 250 1389 372 1426; x_wconf 44' lang='lat' dir='ltr'>&amp;Gumm-</span> <span class='ocrx_word' id='word_1_12' title='bbox 369 1349 550 1410; x_wconf 54' lang='lat' dir='ltr'>amul-:pinu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 271 1406 514 1450">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 271 1406 514 1450">
+     <span class='ocr_line' id='line_1_6' title="bbox 271 1406 514 1450; baseline 0 -6"><span class='ocrx_word' id='word_1_13' title='bbox 271 1406 424 1450; x_wconf 50' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_14' title='bbox 410 1427 514 1448; x_wconf 56' lang='lat' dir='ltr'>..m-m...</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 132 84 990 1536">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 132 84 990 1536">
+     <span class='ocr_line' id='line_1_7' title="bbox 132 84 990 1536; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 132 84 990 1536; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
